@@ -61,7 +61,7 @@ main button {
 }
 
 h1 {
-  font-size: 15rem;
+  font-size: 10rem;
   transition: all 0.5s;
   line-height: 0;
 }
@@ -81,7 +81,7 @@ h1 {
   text-transform: uppercase;
   font-size: 2rem;
   height: 50px;
-  width: 500px;
+  width: 200px;
   border-radius: 250px;
   background-color: #222;
   color: #fff;
